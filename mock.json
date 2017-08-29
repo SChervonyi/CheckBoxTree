@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Root 1"
+    },
+    {
+        "name": "Root 2",
+        "children": [
+            {
+                "name": "Root 2 Child 1",
+                "children": [
+                    {
+                        "name": "Root 2 Child 1 Child 1"
+                    },
+                    {
+                        "name": "Root 2 Child 1 Child 2",
+                        "children": [
+                            {
+                                "name": "Root 2 Child 2 Child 1 Child 1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Root 2 Child 2"
+            }
+        ]
+    },
+    {
+        "name": "Root 3"
+    }
+]
